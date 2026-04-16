@@ -63,3 +63,8 @@ The model uses the following features:
 13. LSTAT – Lower status percentage  
 
 ---
+
+
+🚀 Live Demo
+
+🔗 https://houseprice-hyper7.streamlit.app
